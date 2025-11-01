@@ -19,7 +19,6 @@ It demonstrates:
 
 ### ⚙️ Quickstart (Run in 60 Seconds)
 
-```bash
 # Clone repository
 git clone https://github.com/victormking/power_market_fundamentals_mini.git
 cd power_market_fundamentals_mini
