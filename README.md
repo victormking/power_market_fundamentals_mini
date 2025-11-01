@@ -99,6 +99,8 @@ Joins · CTEs · Window functions · Conditional aggregation · Date truncation 
 3. **Renewable Push** without adequate storage increases curtailment, signaling integration limits.  
 4. **Storage Focus** smooths variability, decreasing volatility across high-renewable markets.
 
+📘 See the full Stage 3 Insights Report → [insights/insights.md](insights/insights.md)
+
 ---
 
 ## 📁 Repository Structure
