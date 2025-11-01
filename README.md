@@ -1,6 +1,5 @@
 # ⚡ Power Market Fundamentals  
-*A mini-project in energy forecasting, capacity expansion, and market fundamentals — inspired by Clearway Energy.*
-
+*A mini-project in energy forecasting, capacity expansion, and market fundamentals
 ---
 
 ### 🔍 Executive Summary
